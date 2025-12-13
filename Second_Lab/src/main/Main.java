@@ -2,6 +2,8 @@ package main;
 
 import java.util.Scanner;
 
+// CSV - Ярошенко Кирилл; XML - Рагимов Павел
+
 public class Main {
     void main()
     {
